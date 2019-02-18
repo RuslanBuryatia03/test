@@ -5,5 +5,5 @@ package ru.inno;
  * @since 18.02.2019
  */
 public class Test2 {
-// вбил изменения в copyTest и залил
+// вбил изменения еще раз в copyTest и залил
 }
