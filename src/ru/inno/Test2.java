@@ -6,4 +6,5 @@ package ru.inno;
  */
 public class Test2 {
 // вбил изменения еще раз в copyTest и залил
+    // это изменения с ветки master
 }
