@@ -6,6 +6,6 @@ package ru.inno;
  */
 public class Test1 {
     public static void main(String[] args) {
-
+// на старый комит переключился
     }
 }
