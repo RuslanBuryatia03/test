@@ -5,4 +5,5 @@ package ru.inno;
  * @since 18.02.2019
  */
 public class Test2 {
+ asfasdf
 }
