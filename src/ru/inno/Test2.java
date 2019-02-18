@@ -5,5 +5,5 @@ package ru.inno;
  * @since 18.02.2019
  */
 public class Test2 {
- asfasdf
+// вбил изменения в copyTest и залил
 }
