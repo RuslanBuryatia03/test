@@ -8,6 +8,7 @@ public class Main {
     protected enum Season { WINTER, SPRING, SUMMER, AUTUMN, ASDF };
 
     public static void main(String[] args) {
+
         Season a = Season.WINTER;
         Season b = Season.ASDF;
         a.compareTo(b);
@@ -17,6 +18,9 @@ public class Main {
         System.out.println(asd);
 //        Integer sdвв = asd.doubleValue() ;
         System.out.println(asd.doubleValue());
+
+
+        // это с ветки мастер для мержа
 
         System.out.println("asdf");
         Collection c = new HashSet();
