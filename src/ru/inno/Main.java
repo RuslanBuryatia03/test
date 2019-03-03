@@ -6,6 +6,7 @@ import java.util.Set;
 
 public class Main {
     public static void main(String[] args) {
+        // это с ветки мастер для мержа
         System.out.println("asdf");
         Collection c = new HashSet();
         print(c);
